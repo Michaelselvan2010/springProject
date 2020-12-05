@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootJdbcApplication {  
     public static void main(String[] args) {  
         SpringApplication.run(SpringBootJdbcApplication.class, args); 
-        System.out.println("error fixed...");
+        ystem.out.println("error fixed...");
       
         System.out.println("Inserted !!!!!!!!!!!");
     }  
