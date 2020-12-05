@@ -7,6 +7,6 @@ public class SpringBootJdbcApplication {
         SpringApplication.run(SpringBootJdbcApplication.class, args); 
         System.out.println("error fixed...");
       
-        System.out.println("Inserted !!!!!!!!!!!");
+        System.out.println("Inserted !!!!!!!8888!!!!");
     }  
 }  
